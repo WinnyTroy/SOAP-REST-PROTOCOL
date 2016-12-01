@@ -1,7 +1,8 @@
 # SOAP-REST-PROTOCOL  
 
 
-# SOAP (former acronym for Simple Object Access Protocol) is an object-oriented RPC protocol built on XML.  
+# SOAP   
+ (former acronym for Simple Object Access Protocol) is an object-oriented RPC protocol built on XML.  
  It allows the transmission of messages between remote objects, which means that it allows an object to invoke methods of objects physically located on another server, and is most often done using the HTTP protocol, however, other protoolz may apply.  
  
  
